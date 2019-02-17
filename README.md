@@ -1,6 +1,14 @@
 # twitter
 
-The following is twitter project where tweets are inputted by user in the output we loop over all the tweets and displays the tweets according to the timestamp. The file is serialize in Treets.java file
+In this project where tweets are inputted by user. The file is serialize in Treets.java file
+
+The following output is displayed
+
+1 - We loop over all the tweets and displays the tweets according to the timestamp.
+2- loop over the tweets and display each word of tweet  
+3- Seperate Hashtags and Mentions seperately in an array
+4- Count number of Hashtags if repeated
+5- Display Tweets posted by Author seperately
 
 
 # Example - Input
