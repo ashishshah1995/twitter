@@ -3,8 +3,8 @@
 The following is twitter project where tweets are inputted by user in the output we loop over all the tweets and displays the tweets according to the timestamp. The file is serialize in Treets.java file
 
 
-# For Example - Input
- Two twitter input - 
+# Example - Input
+ For two tweets - 
  
  1 - "ashishshah", "Rock bottom will teach you #lessons that mountain tops never will. @Ashishshah1995.", new Date(1421849732000L)
  
@@ -15,12 +15,19 @@ The following is twitter project where tweets are inputted by user in the output
 
 This is a new Treet:  Treet:  "Rock bottom will teach you #lessons that mountain tops never will. @Ashishshah1995." by ashishshah on Wed Jan 21 09:15:32 EST 2015 
 The words are:
+
 rock
+
 bottom
+
 will
+
 teach
+
 you
+
 #lessons
+
 that
 mountain
 tops
