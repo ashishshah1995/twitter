@@ -29,10 +29,15 @@ you
 #lessons
 
 that
+
 mountain
+
 tops
+
 never
+
 will
+
 @ashishshah1995
 
 Treet:  "Rock bottom will teach you #lessons that mountain tops never will. @Ashishshah1995." by ashishshah on Wed Jan 21 09:15:32 EST 2018
